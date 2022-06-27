@@ -2,7 +2,7 @@
 
 
 # Project Objective: 
-To show the number of COVID 19 confirmed cases, the daeth and rates since january 2020 to june 2022.
+To show the number of COVID 19 confirmed cases, the daeth and rates since january 2020 till date.
 
 ----
 # Data Sourcing: https://aka.ms/30DLCOVID19GitHubData
